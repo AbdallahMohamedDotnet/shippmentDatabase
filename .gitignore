@@ -1,0 +1,25 @@
+# SQL Server Database Files (if anyone copies actual .mdf/.ldf files here)
+*.mdf
+*.ldf
+*.ndf
+*.bak
+
+# SQL Server Log Files
+*.trc
+*.log
+
+# Temporary Files
+*.tmp
+*_temp.sql
+*_backup.sql
+
+# Editor and IDE files
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
